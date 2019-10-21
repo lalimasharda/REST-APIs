@@ -1,8 +1,3 @@
-### REST CLIENT
-![](https://github.ncsu.edu/lmsharda/HW1-510/blob/master/REST%20Client.png)
-
-### REST SERVER
-![](https://github.ncsu.edu/lmsharda/HW1-510/blob/master/REST%20Server.png)
 
 ### Concepts 
 #### 1. Concerns regarding REST APIs:
